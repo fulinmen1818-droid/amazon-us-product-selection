@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地凭证，绝不提交
+.env
+.env.*
+*.key
+*credentials*
+*secret*
+
+# 构建产物
+*.zip
+dist/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
