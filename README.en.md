@@ -37,6 +37,14 @@ When your original direction is dead, the answer isn't "pick another random prod
 
 Once the direction is set, compare candidate themes on six metrics that can be computed in bulk: demand volume, supply density, demand-to-supply ratio, review barrier, price feasibility, ad dependency.
 
+### 4. Turn negative reviews into design changes — and judge whether they're fixable
+
+Reviews are sorted into five buckets (product defect / expectation gap / misuse / logistics & packaging / seller operations), each with a different fix. **The costliest mistake is treating an expectation gap as a product defect** — if the product isn't broken but buyers say "it didn't work," upgrading the material burns money and changes nothing. What needs changing is the claim or the product form.
+
+Every proposed fix must carry a per-unit cost delta and a recomputed FBA fee. A $0.15 fix can actually cost $0.55 once it pushes the package across an FBA size tier. If margin drops below 30% after the fix, the fix isn't viable.
+
+Then the harder question: **is this fixable, or structurally unfixable?** When every competitor sits below 4.2 stars, the same complaint appears across three or more unrelated brands, and positive reviews only ever say "cute" or "cheap" rather than "it works" — the category's promise itself can't be delivered. Changing suppliers won't help. Change the product.
+
 ---
 
 ## Three hard rules
@@ -63,6 +71,7 @@ amazon-us-product-selection/
 │   ├── methodology.md          Full method: 6-dimension framework, scoring, audit tables
 │   ├── calculations.md         3-tier profit model, price floor, 7 measured FBA tiers
 │   ├── data-sources.md         Data source options, field requirements, degradation rules
+│   ├── review-analysis.md      Review triage, fix costing, structural vs. fixable
 │   ├── compliance-us.md        Children's products, small parts, CPC, eFiling, IP
 │   └── cases/
 │       ├── case-competitor.md  Single-ASIN research (15 competitors compared)
